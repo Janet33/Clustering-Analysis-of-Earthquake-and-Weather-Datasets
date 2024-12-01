@@ -1,5 +1,9 @@
 ### **Project: Clustering-Analysis-of-Earthquake-and-Weather-Datasets**  
 
+![image](https://github.com/user-attachments/assets/11eeb600-0ad4-4c0b-9734-e7af42027395)
+
+![image](https://github.com/user-attachments/assets/d5e85edc-9529-4e70-9e8e-f392f5d7ad80)
+
 ![image](https://github.com/user-attachments/assets/e477123d-896b-43d1-8764-f9b421a14017)
 
 ![image](https://github.com/user-attachments/assets/00524bd6-3dc6-4076-8ad4-58080173e234)
